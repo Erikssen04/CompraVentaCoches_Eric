@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<coches>
+    <coche>
+        <anno>2005</anno>
+        <fechaVenta>05/05/2005</fechaVenta>
+        <marca>Opel</marca>
+        <matricula>1234ABC</matricula>
+        <modelo>Corsa</modelo>
+    </coche>
+    <coche>
+        <anno>2016</anno>
+        <fechaVenta>03/10/2009</fechaVenta>
+        <marca>Seat</marca>
+        <matricula>1904FCS</matricula>
+        <modelo>Ibiza</modelo>
+    </coche>
+    <coche>
+        <anno>2020</anno>
+        <fechaVenta>20/20/2020</fechaVenta>
+        <marca>Wolkswagen</marca>
+        <matricula>2020ZZA</matricula>
+        <modelo>Jaguar</modelo>
+    </coche>
+</coches>
